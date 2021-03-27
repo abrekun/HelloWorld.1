@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld.1</string>
+    <string name="button_ok">OK</string>
+    <string name="button_fresh">Очистить</string>
+</resources>
